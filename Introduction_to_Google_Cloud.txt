@@ -1,0 +1,68 @@
+Google Cloud
+- Computer
+-App
+-Kubernetes
+-Cloud Functions
+
+Compute Engine:
+	- Virtual machines
+App Engine:
+	- Creates Application Engine to execute applications
+	
+Kubernetes Engine:
+	-Container Orachastration platform. 
+	- Organizes clusters how best we can execute containers
+Cloud Functions:
+	- Event driven functions.
+
+Storage and Data Base services
+
+Database:
+	NO SQL
+		- Big Table: Wide column database
+		- Data Store :Document DAtabase
+		- Fire Store :Document database Next GEN
+	RDBMS : 
+		Cloud SQL: MYSQL,Postgresql
+		Spanner: Horizantal scalable RDBMS
+	File System  
+		- Managed Network File Systems, can share across VMS
+	Object System
+		- File Store , similar to S3. and amazon glacier.
+
+Networking in GCP
+	-VPC
+		- Collection of Subnets, Instances and other resources that we create 
+		- when a GCP project is created a default VPC is created
+		- VPC peering is available across projects
+	- Network Services
+		- Load Balancers
+				- 3 Global Load Balancers
+				- 2 Regional Load Balancers
+	-Cloud DNS
+			- Creation of Domain Name Services
+	-Cloud CDN
+			- distribution of Content, Content Distribution Networ
+	Hybrid Connectivity
+			- VPN
+				- Connectivity between on-premesis and AWS
+				- Interconnect: High speed network connection
+				- Cloud Routers
+Stack Driver:
+	- Used for monitoring the services
+	- Debug and Trace used by developers
+	- Loging : Centralized loging services
+	- Cloud Build: For building containers
+	- Cloud Registry: For managing and sharing containers
+	- Deployment Manager: For deploying applications and infrastructure
+Big Data:
+	- Data Proc: managed Hadoop and spark serivce
+	- Big Query: Analytics database
+	- DAta Flow: Streaming and batch processing service based on apache bean
+	- Pub/Sub: Message queue to share data between application in a asynchronous manner
+
+AI Tools:
+	- Tools for vision and Natural Language processing
+	
+	
+	
