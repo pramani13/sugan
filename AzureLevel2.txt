@@ -1,0 +1,84 @@
+core resources
+
+	compute services
+			- Virtual machine (over 200) (Iaas)
+			- App Services (Paas)
+			- Azure Container Services - Container Services
+			- Azure Kubernetes Services - Container Service (Kuburnetes by Google)
+			- Windows Virual Desktop - virtual windows machine. files are stored in cloud.
+									  - logs in from any device
+		
+	networking services
+		 - Virtual Networks
+			- emulating a physical networking
+			
+		 - VPN gateway
+			- connecting two networks using a gateway
+		 - Vnet Peering
+			- connecting two virtual network
+		 - Express Route
+			- high speed network connection in azure
+		Security
+			- Distributed Denial of Service Attach (DDoS) 
+			- Azure Firewall : protects the network
+			- Security Group : basic type of firewall. It is like Access Control List
+			- Private Link :
+		Delivery
+			- Load Balancers
+			- Application Gateway
+			- Content Delivery Networks : Storing static files :edge location
+			- Azure Front Door Service : 
+		Monitoring
+			- Network Watcher
+			-Express Route Monitor
+			-Azure Monitor
+			
+		create a virtual network
+		create a virtual machine
+	storage services
+		- Container Storage (BLOB)
+			-General Purpose V2 : Blobs, Queue
+			-Azure Data Lake Storage : Peta Byte storage, Pay per GB
+			-Access Tiers : Hot, Cool, Archive : Fail over option: more like S3
+					-Performance Tiers: Standard or premium
+					-makes 3 copies
+					-Redundancy replication available.
+					-Can make failover 
+			-Managed Disk Storage: Like Hard Disk
+					
+		- Disk Storage
+		- File Storage
+		- Storage Tiers
+	database services
+		- Cosomos DB
+			- NoSQL database, MultiModal 
+		- Azure SQL
+			- Relational Database , SQL Server Engine. Managed Database
+		- Azure Database for Mysql
+			- Relational Database.
+		- Azure SQL for postgres
+			- Relational Database.
+		- SQL managed Instance
+			- More Compatible with MS SQL Server. 
+		- Azure Synapse Analytics (Big Data)
+			- Apache Hadoop
+		- HDInsight (Apache BigData Solutions)
+		- DataBricks ( Analytics Platform) : All working 
+	
+	azure market place
+		- various services available in the market place.
+	
+	Azure AI
+		- Machine Learning
+		- Cognitive Services : imaging services,convert audio to text and text to audio,  
+		- Azure Bot Service : Chat Bot Service
+	Serverless Computing
+		- Azure Functions: Code executes based on a trigger
+		- Logic Apps: Work Flow Service
+		- Event Grid
+		- Azure Devops
+			-GitHub
+			-GitHub Actions
+				- Automatically push it to the webportal.
+	
+		

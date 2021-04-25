@@ -1,0 +1,35 @@
+Managing your resources
+	- Powershell
+	- Amazon CLI
+	- Azure Portal
+	- Azure CloudShell
+	- Azure Mobile App
+		-Monitor the services
+
+Azure Advisor
+	- How to improve the services that you have availed
+
+Azure Resource Manager : 
+	- Template and management service: CloudFormation jason scripts
+
+Azure Resource Monitor
+	- Azure Service Health
+
+Azure Security Center
+	- Unified Infrastructure system
+	- Key Vault
+		- For storing your keys and certificate or code.
+
+Azure Sentinel
+	- collecting logs.
+	- For Detecting threats
+		- Invalid Login ids 
+		- Forcible delete.
+
+Dedicated Hosts (Tenancy)
+	- Host and network should be given to the customer
+
+	
+	
+	
+	
