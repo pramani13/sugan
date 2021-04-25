@@ -1,0 +1,23 @@
+network	security
+	- Physical Layer : Data Center that Microsoft Controls
+	- IAM : Azure AD 
+	- Perimeter : Ddos, Firewalls
+	- Network: Subnet and network Security Groups
+	- Compute : Limit Remote Desktop Access
+	- Application : API managment
+	- Data :Virtual End Point
+
+
+General Principle
+	-Security
+	-Performance and scalability
+	-Availability and recoverability
+	-Efficiency and operations
+
+Security	
+	- Network Security Group
+	- Denial of Service Attack
+
+IAM
+	- Azure Active Directory
+	
